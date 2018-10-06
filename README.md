@@ -1,0 +1,3 @@
+# My first go at a desktop app
+
+I heard electron's supposed to be helpful. Maybe it'll help me learn node.js too...
