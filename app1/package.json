@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "because why not",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theochiu/learn-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theochiu/learn-electron/issues"
+  },
+  "homepage": "https://github.com/theochiu/learn-electron#readme",
+  "devDependencies": {
+    "electron": "^3.0.2"
+  }
+}

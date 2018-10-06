@@ -1,0 +1,14 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "shopping list desktop app (second app)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Theodore Chiu",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.2"
+  }
+}
